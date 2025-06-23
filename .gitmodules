@@ -1,0 +1,6 @@
+[submodule "polyhedral_common"]
+	path = polyhedral_common
+	url = https://github.com/dzackgarza/polyhedral_common
+[submodule "sage-dzg-fork"]
+	path = sage-dzg-fork
+	url = git@github.com:dzackgarza/sage-fork-dzg.git
