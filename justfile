@@ -30,3 +30,4 @@ test:
         raise SystemExit(f"machine-local FLINT symlink was imported: {local_link}")
     PY
 
+test-ci: test
